@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/116d1327-233d-4681-b3dc-84a6697cde78)# Abstractive Text Summarization for Indonesian News Article
+# Abstractive Text Summarization for Indonesian News Article
 
 This repository contains a lightweight abstractive text summarization system tailored for Indonesian news articles. The project leverages [mT5](https://huggingface.co/models) and [mBART-50](https://huggingface.co/facebook/mbart-large-50) models with [LoRA (Low-Rank Adaptation)](https://arxiv.org/abs/2106.09685) to enable efficient fine-tuning and deployment.
 
